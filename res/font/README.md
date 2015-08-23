@@ -8,6 +8,10 @@ Mind that typically on a whistle in key of D major any scores of key of G major 
 
 The supported fingering annotation in the Tin Whistle Fingering Font is used in following scores.
 
+<img src="The_Tin_Whistle_-_Key_of_D-1.png" width="100%" />
+
+Each fingering annotation below the score note to be played show the six holes of the whistle tuned as D major. A black filled hole represents a whistle hole covered by a finger and an unfilled circle represents an open uncovered whistle hole. The upper three whistle holes are usually played with the left hand (index finger, middle finger, ring finger). The lower three holes are usually played with the right hand (index finger, middle finger, ring finger). A 'plus' sign below the fingering hole annotation indicates that blowing a higher note has to be achieved. This is performed by blowing a bit harder into the whistle.
+
 # Legal
 
 Copyright (c) 2015 Oliver Merkel
