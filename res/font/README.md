@@ -16,7 +16,7 @@ Each fingering annotation below the score note to be played show the six holes o
 
 To hear an audio sample of this score you can play back the file <a href="https://raw.githubusercontent.com/OMerkel/tin_whistle/master/res/font/The_Tin_Whistle_-_Key_of_D.ogg">The_Tin_Whistle_-_Key_of_D.ogg</a>. If this sounds a bit like you playing the notes on your whistle then you are on the right way.
 
-Switching into notation of the key of G major there is a difference in the representation of any c# and c note in score writing. As in scale of D major playing all holes uncovered will produce a c# when blowing the whistle. The corresponding unmodified note without accidental '#' (sharp) in G major has a different pitch and uses a different fingering annotation as shown with middle and ring finger of upper hand (left hand) covering their whistle holes. 
+Switching into notation of the key of G major there is a difference in the representation of any c# and c note in score writing. As in scale of D major playing all holes uncovered will produce a c# when blowing the whistle. The corresponding unmodified note without accidental '#' (sharp) in G major has a different pitch and uses a different fingering annotation as shown with middle finger and ring finger of upper hand (left hand) covering their whistle holes. 
 
 <img src="The_Tin_Whistle_-_In_Scale_of_G-1.png" width="100%" />
 
