@@ -24,6 +24,8 @@ To hear an audio sample of this score you can play back the file <a href="https:
 
 # Legal
 
+Logos and trademarks belong to their respective owners.
+
 Copyright (c) 2015 Oliver Merkel
 
 If not otherwise stated all fonts, glyphs, and graphics (independent of its format) are licensed under
