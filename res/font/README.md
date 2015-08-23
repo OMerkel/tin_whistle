@@ -22,6 +22,12 @@ Switching into notation of the key of G major there is a difference in the repre
 
 To hear an audio sample of this score you can play back the file <a href="https://raw.githubusercontent.com/OMerkel/tin_whistle/master/res/font/The_Tin_Whistle_-_In_Scale_of_G.ogg">The_Tin_Whistle_-_In_Scale_of_G.ogg</a>. If this sounds a bit like you playing the notes on your whistle then you are on the right way.
 
+# Not supported yet...
+
+* Any fingering annotation with half covered whistle holes is unsupported currently.
+* Uncommon alternative fingering annotations (for same or rarely played notes) are unsupported currently.
+* Annotations beyond whistle hole covering for tongueing, slurring, sliding, cutting, trills or vibrato techniques are unsupported currently.
+
 # Legal
 
 Logos and trademarks belong to their respective owners.
