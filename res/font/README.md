@@ -34,9 +34,12 @@ Logos and trademarks belong to their respective owners.
 
 Copyright (c) 2015 Oliver Merkel
 
-If not otherwise stated all fonts, glyphs, and graphics (independent of its format) are licensed under
-
-  Creative Commons License: Images are licensed under a
-  Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+If not otherwise stated this work including all fonts, glyphs, and graphics
+(independent of its format) is licensed under a
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
   
-  * http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img
+alt="Creative Commons License" style="border-width:0"
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
