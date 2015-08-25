@@ -24,7 +24,6 @@ To hear an audio sample of this score you can play back the file <a href="https:
 
 # Not supported yet...
 
-* Any fingering annotation with half covered whistle holes is unsupported currently.
 * Uncommon alternative fingering annotations (for same or rarely played notes) are unsupported currently.
 * Annotations beyond whistle hole covering for tongueing, slurring, sliding, cutting, trills or vibrato techniques are unsupported currently.
 

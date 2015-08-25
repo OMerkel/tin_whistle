@@ -45,15 +45,16 @@ MuseScore {
    * Notes pitch values are correct for unmodified
    * Treble clef only with notes pitches as given.
    */
-  property variant fingering : { 62: "d", 64: "e", 66: "l",
-    67: "g", 69: "a", 71: "b", 72: "C", 73: "I", 74: "D",
-    76: "E", 78: "L", 79: "G", 81: "A", 83: "B", }
+  property variant fingering : { 62: "d", 63: "k", 64: "e", 65: "f", 66: "l",
+    67: "g", 68: "m", 69: "a", 70: "i", 71: "b", 72: "c", 73: "j", 74: "D",
+    75: "K", 76: "E", 77: "F", 78: "L", 79: "G", 80: "M", 81: "A", 82: "I",
+    83: "B", 84: "C", 85: "J", }
 
   /**
    * offsetystafftext represents a hardcoded value describing the
    * vertical offset of staff text that will hold the annotation.
    *
-   * With lyrics of no or one line a value of 10 is appropriate.
+   * With lyrics of no or one line a value of 13 is appropriate.
    * 
    * Mind to switch staff text to use the TinWhistleFingering font.
    * This can be established in Musescore 2 as follows:
@@ -61,7 +62,7 @@ MuseScore {
    * choose Text Font as Tin Whistle Fingering (font to be
    * installed first), use Size of e.g. 40, then select Apply / OK
    */
-  property variant offsetystafftext : 10
+  property variant offsetystafftext : 13
   
   function createTinWhistleFingering(note) {
 
