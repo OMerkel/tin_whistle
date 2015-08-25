@@ -22,7 +22,7 @@ Switching into notation of the key of G major there is a difference in the repre
 
 To hear an audio sample of this score you can play back the file <a href="https://raw.githubusercontent.com/OMerkel/tin_whistle/master/res/font/The_Tin_Whistle_-_In_Scale_of_G.ogg">The_Tin_Whistle_-_In_Scale_of_G.ogg</a>. If this sounds a bit like you playing the notes on your whistle then you are on the right way.
 
-If a hole is half covered then this will alter the pitch slightly. This is shown in the fingering annotation by a hole drawn half black and half empty as intended.
+If a whistle hole is half covered then this will alter the pitch slightly. This is shown in the fingering annotation by a hole drawn half black and half empty as intended.
 
 # Font structure
 
