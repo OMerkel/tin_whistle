@@ -24,7 +24,7 @@ only with notes pitches as given.
 
 Property __offsetystafftext__ represents a hardcoded value describing the
 vertical offset of staff text that will hold the annotation.
-With lyrics of no or one line a value of 10 is appropriate.
+With lyrics of no or one line a value of approx. 13 is appropriate.
 
 Mind to switch staff text to use the __TinWhistleFingering__ font.
 One possible way to establish this in Musescore 2 is as follows:
