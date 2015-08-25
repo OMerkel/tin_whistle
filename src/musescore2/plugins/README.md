@@ -27,14 +27,14 @@ vertical offset of staff text that will hold the annotation.
 With lyrics of no or one line a value of 10 is appropriate.
 
 Mind to switch staff text to use the __TinWhistleFingering__ font.
-This can be established in Musescore 2 as follows:
+One possible way to establish this in Musescore 2 is as follows:
 
-* Goto menu Style,
-* select entry Text...,
-* select Staff,
-* choose Text Font as __Tin Whistle Fingering__ (font to be installed first),
-* use Size of e.g. 40,
-* then select Apply / OK
+* Goto menu _Style_,
+* select entry _Text..._,
+* select _Staff_,
+* choose _Text Font_ as __Tin Whistle Fingering__ (font to be installed first),
+* use _Size_ of e.g. _40_,
+* then select _Apply_ / _OK_
 
 # Legal
 
