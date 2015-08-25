@@ -146,6 +146,8 @@ The Musescore note.pitch follow the MIDI note numbers ( 60 being mapped onto c4 
 
 The tone frequency is f<sub>m</sub> =  2<sup>(m−69)/12</sup>&#183;(440 Hz) with m being the MIDI note number.
 
+<img src="tin_whistle_fingering_font_glyphs.png" width="100%" />
+
 # Not supported yet...
 
 * Uncommon alternative fingering annotations (for same or rarely played notes) are unsupported currently.
