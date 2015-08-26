@@ -10,6 +10,7 @@ Objective of this project is to provide tools and resources related to playing t
 * Musescore 2 QML Plugin [Tin Whistle Notation](src/musescore2/plugins)
 * Free [Music Scores](res/musescore2/scores) in d major or g major notation with valid note pitches for high d tin whistlers with
     * lyrics included as available,
+    * Tin Whistle Fingering annotations included,
     * editable Musescore2 files,
     * *.ogg sound files to play back and listen to the score or sing along (Karaoke),
     * printable SVG (Scalable Vector Graphics) score files, and
