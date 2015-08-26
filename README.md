@@ -23,3 +23,14 @@ Logos and trademarks belong to their respective owners.
 Copyright (c) 2015 Oliver Merkel
 
 See LICENSE files plus license information included in file meta data if available being part of the repository on exact legal information.
+
+Note that the free [music scores](res/musescore2/scores) graphics being part of this repository are own work and licensed licensed under a
+  
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img
+alt="Creative Commons License" style="border-width:0"
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+Mind the used lyrics and music are in the public domain or under similar free license if not otherwise stated.
+Lyricists, composers are mentioned in the music scores if attribution is available (unless unknown at time of creation).
