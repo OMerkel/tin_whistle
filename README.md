@@ -33,4 +33,4 @@ src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 Mind the used lyrics and music are in the public domain or under similar free license if not otherwise stated.
-Lyricists, composers are mentioned in the music scores if attribution is available (unless unknown at time of creation).
+Lyricists, composers are mentioned in the music scores if attribution is available (unless unknown or unclear to best knowledge at time of creation).
