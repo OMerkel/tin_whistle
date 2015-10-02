@@ -41,7 +41,7 @@ The used lyrics and music are in the public domain or under similar free license
             <dc:title>Oliver Merkel, Merkel(dot)Oliver (at)web(dot) de</dc:title>
           </cc:Agent>
         </dc:publisher>
-        <dc:language>en-GB</dc:language>
+        <dc:language>en-IE</dc:language>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
       </cc:Work>
