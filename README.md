@@ -20,16 +20,16 @@ Objective of this project is to provide tools and resources related to playing t
 
 Logos and trademarks belong to their respective owners.
 
-Copyright (c) 2015 Oliver Merkel
+Copyright (c) 2015, 2017; Oliver Merkel; All rights reserved.
 
 See LICENSE files plus license information included in file meta data if available being part of the repository on exact legal information.
 
 Note that the free [music scores](res/musescore2/scores) graphics being part of this repository are own work and licensed licensed under a
   
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0"><img
 alt="Creative Commons License" style="border-width:0"
 src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0">
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 Mind the used lyrics and music are in the public domain or under similar free license if not otherwise stated.
