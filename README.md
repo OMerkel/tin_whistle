@@ -24,7 +24,7 @@ Copyright (c) 2015, 2017; Oliver Merkel; All rights reserved.
 
 See LICENSE files plus license information included in file meta data if available being part of the repository on exact legal information.
 
-Note that the free [music scores](res/musescore2/scores) graphics being part of this repository are own work and licensed licensed under a
+Note that the free [music scores](res/musescore2/scores) graphics being part of this repository are own work and licensed under a
   
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0"><img
 alt="Creative Commons License" style="border-width:0"
