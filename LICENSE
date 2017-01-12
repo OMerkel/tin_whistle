@@ -1,11 +1,12 @@
 
 Logos and trademarks belong to their respective owners.
 
-All source code also including code parts written in HMTL, Javascript, CSS, QML is under MIT License.
+All source code also including code parts written in DOCBOOK,
+XSL, XML, HMTL, Javascript, CSS, QML is under MIT License.
 
   The MIT License (MIT)
 
-  Copyright (c) 2015 Oliver Merkel
+  Copyright (c) 2015, 2017 by Oliver Merkel
 
   Permission is hereby granted, free of charge, to any person obtaining a copy of
   this software and associated documentation files (the "Software"), to deal in
@@ -29,4 +30,4 @@ If not otherwise stated all fonts, glyphs, and graphics (independent of its form
   Creative Commons License: Images are licensed under a
   Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
   
-  * http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US
+  * http://creativecommons.org/licenses/by-nc-sa/4.0
